@@ -30,9 +30,9 @@ This project was built using a combination of modern web development tools and t
 
 👇 **Project Preview:**
 
-| **Homepage**               | **Product Detail Page**     | **Cart**                  |
+| **Homepage**               | **Product Detail Page**     | **Campaigns**                  |
 |-----------------------------|----------------------------|----------------------------|
-| ![Homepage](link-to-image) | ![Product Detail](link-to-image) | ![Cart](link-to-image)   |
+| ![Product Detail](https://github.com/user-attachments/assets/72391405-d373-4468-b652-910a99349249) | ![Product Detail](https://github.com/user-attachments/assets/702ef0c1-379c-4a31-8b6b-996916deaa96) | ![Product Detail](https://github.com/user-attachments/assets/445adde5-fc77-48b9-b31b-8060c0647511)  |
 
 > **Note:** You can update the screenshots with your own visuals.
 
